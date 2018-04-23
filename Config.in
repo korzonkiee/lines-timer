@@ -1,0 +1,4 @@
+config BR2_PACKAGE_KORZENIEWSKIM_TIMER
+    bool "korzeniewskim-timer"
+    help
+      Timer package.
